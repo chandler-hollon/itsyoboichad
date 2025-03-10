@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itsyoboichad
-- 👀 I’m interested in video game development, but also software development, AI, and anything else involving code
-- 🌱 I’m currently learning C# in Unity (trying to learn more advanced topics) as well as software architecure and project management
+- 👋 Hi, I’m Chandler
+- 👀 I’m interested in video game and software development
+- 🌱 I’m currently working in C# and Unity (trying to learn more advanced topics) as well as software architecure and project management
 - 💞️ I’m looking to collaborate on whatever you're working on!
 - 📫 How to reach me - chandler.hollon@gmail.com
 
